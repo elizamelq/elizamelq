@@ -1,4 +1,4 @@
-IT Student 👩🏻‍🎓💻
+Estudante de tecnologia 👩🏻‍🎓💻
 
 <div style="display: inline_block"><br>
   <p>Habilidades adquiridas até o momento: </p>
